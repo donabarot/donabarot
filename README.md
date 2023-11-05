@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @donabarot
 - 👀 I’m interested in programming...
-- 🌱 I’m currently learning bachelors in computer science at Conestoga college
+- 🌱 I’m currently learning bachelors of computer science at Conestoga college
 - 💞️ I’m looking to collaborate on group studies and projects
 - 📫 How to reach me- on my email: barotdona4@gmail.com
 
